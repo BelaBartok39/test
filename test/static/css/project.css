@@ -1,8 +1,10 @@
 /* These styles are generated from project.scss. */
-
+body {
+  background-color: rgb(176, 243, 186);
+}
 .alert-debug {
   color: black;
-  background-color: white;
+  background-color: rgb(253, 253, 253);
   border-color: #d6e9c6;
 }
 
